@@ -78,7 +78,7 @@ def process_csv():
     for art_style, top_sentiments in sentiments.items():
         for i, sentiment in enumerate(top_sentiments):
             prompt_text = "\n".join(wrap(sentiment['utterance'], width=70))
-            image_url = generate_image(prompt_text, 'image-alpha-001', os.getenv('OPENAI_API_KEY'))
+            image_url = generate_image("using this style" + art_style + prompt_text, 'image-alpha-001', os.getenv('OPENAI_API_KEY'))
             response = requests.get(image_url)
             image = Image.open(BytesIO(response.content))
             image.save(f"OpenAIGenerations/{art_style}_{i + 1}.jpg")
