@@ -3,6 +3,7 @@ import os
 import nltk
 import requests
 import pandas
+import tabulate
 from dotenv import load_dotenv
 from textwrap import wrap
 from PIL import Image
@@ -65,6 +66,14 @@ def process_csv():
         sentiments[art_style] = top_sentiments
 
     print("Finished Sentiment Analysis.")
+
+    with open("OpenAIGenerations/sentiments_table.txt", "w") as f:
+        f.write("Art Style\tPrompt\tSentiment Score\n")
+        for art_style, top_sentiments in sentiments.items():
+            for sentiment in top_sentiments:
+                prompt_text = "\n".join(wrap(sentiment['utterance'], width=70))
+                f.write(f"{art_style}\t{prompt_text}\t{sentiment['sentiment_score']}\n")
+        print("Sentiments table saved.")
 
     for art_style, top_sentiments in sentiments.items():
         for i, sentiment in enumerate(top_sentiments):

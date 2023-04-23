@@ -1,0 +1,218 @@
+Art Style	Prompt	Sentiment Score
+Abstract_Expressionism	reflections of happiness, brightness, sunny, sunshine, light, joy,
+enlighten, fun	0.9705
+Abstract_Expressionism	the figures in painting representing fear, grief, sorrow, pain,
+distrust, darkness, death, evil	-0.9781
+Action_painting	The black paint splattered over the bright colors symbolizes enjoyment
+and fun that is ruined.	0.7717
+Action_painting	I fear I am looking at angry pit of people that want to kill me after
+I betrayed them with losing their investments.	-0.9552
+Analytical_Cubism	I feel amused looking at this painting because it is like a puzzle and
+I enjoy solving puzzles.	0.872
+Analytical_Cubism	this picture is sad because it is parts broken of a musical violin in
+pieces so sorrowful	-0.8838
+Art_Nouveau_Modern	This image is similar in style to the original, with similar coloring
+and the number (10) of individual images, but lacks the original's
+thoughtful innocence. These are women doing their jobs, in their
+underclothes, helping each other, getting ready for work (dancing,
+which is very physical), accepting favors from admirers, and
+practicing in front of mirrors. The ideal v. reality makes me feel
+sad.	0.976
+Art_Nouveau_Modern	The woman appears to be a devil. The woman and dog are in red with
+flames in the background. There is something evil being advertised.
+Perhaps a movie about Hell. This makes you feel that it is a horror
+film or performance which is frightening.	-0.9694
+Baroque	As you can clearly see this is a painting/picture of one of the
+greatest love stories of our time, of Anthony and Cleopatra, and they
+are clearly in the throes of passionate love making or in the
+anticipation of such activity. This is clearly exciting to look at.	0.9812
+Baroque	It's difficult to tell what is happening exactly because the image is
+small, but it appears that something terrible is about to happen.
+Perhaps an assassination? You can see a man running toward a group of
+other men. Everyone is looking fearfully at the man who is running and
+some are even holding their arms out in fear or as if they are
+shouting to stop him.	-0.974
+Color_Field_Painting	The colors of this piece are so beautiful and calming. They make the
+painting look and have the mood of contentment and joy. It is
+beautiful.	0.965
+Color_Field_Painting	This painting makes me feel anger because the brushstrokes are not
+perfectly centered or set. Nothing seems happy about this. The red
+makes everything feel unhappy. The anger that takes place lies in the
+longer red brushstrokes than it does the blue. The red makes me think
+of a horror movie slashing scene.	-0.9755
+Contemporary_Realism	The beautiful subject and the beautiful portrait make the observer
+grateful to share this moment with the sitter. The elegant clothing
+and delicate lighting  on the subject and the painted screen behind
+let us know the wealth and elegance that has blessed this life and
+afforded such a lovely comission.	0.9839
+Contemporary_Realism	which you fear and often avoid places or situations that might cause
+you to panic and make you feel trapped, helpless or embarrassed.	-0.9485
+Cubism	The buildings in this painting look bright and vibrant, which makes
+the painting look happy and amused. The bright colors bring happiness
+and light to the painting.	0.9601
+Cubism	hell, fire, dark, death, beaten, defeat, evil, hate	-0.9771
+Early_Renaissance	This is a picture of pure love and contentment between a mother and a
+child. The way she is resting her head on her child you can feel that
+emotion viscerally even by looking at it that she is at peace with the
+world as she is holding her most loved individual in her arms safely
+and peacefully.	0.9682
+Early_Renaissance	Sadness is an emotional pain associated with, or characterized by,
+feelings of disadvantage, loss, despair, grief, helplessness,
+disappointment and sorrow. An individual experiencing sadness may
+become quiet or lethargic, and withdraw themselves from others.	-0.9819
+Expressionism	The person in the image appears to generally be happy and smiling like
+he's going through some positive time. The way the image is
+illustrated also generally seems to be positive and uplifting. It
+feels like a happy thing to make everything more positive.	0.9781
+Expressionism	Two matadors fight a bull. All of the people in the painting have gray
+and blue faces and skin. This makes them look like ghouls or
+masqueraders. The matador behind the bull is trying unsuccessfully to
+distract the bull with a purple cape, the color of royalty. The
+matador in front of the bull is upside down and his neck may be
+broken. He has dropped his cape and it may be his sword in the bull's
+shoulders. The pain and terror in the painting make me feel angry. I
+feel angry that bull fighting glorifies the violence and terror of the
+slow death of the bull. The meat will be unusable, the matadors are
+injured and killed for entertainment. Bull fighting is immoral. And
+this painting shows someof the reasons why.	-0.9912
+Fauvism	The bright optimistic colors, the beautiful subject matter, and the
+vibrant paint strokes give this painting a sense of hope and joy.	0.9601
+Fauvism	This is a sad picture as it captures the sadness and loneliness of
+this boy who is all alone in the room. The despondent look on his face
+is truly heartbreaking. It evokes questions of why is he in this room?
+What did he do? Is he being punished? Is he the product of cruel
+unloving parents that keep him in their for days? Heartbreaking.	-0.98
+High_Renaissance	It reminds me of heaven above. But to be honest the first painting, of
+the crucifixion of Christ did not provoke a negative emotion. It was
+quite positive as it brought about thoughts of altruism, love, and
+salvation.	0.9791
+High_Renaissance	The standing person is trying to kill or harm the other person who is
+lying down on the ground. There are fear and horror expressions on the
+lying person's face.	-0.9716
+Impressionism	There is a beauty in this scene, bright colors and vivd textures
+invoking a landscape ideal for exploring and enjoying on a sunny day.
+The waves add a dash of excitement and interest, their curling tops
+hinting at currents to play in and a breeze to cool and delight,
+evoking the feeling of a cheerful summer holiday in which to relax and
+enjoy oneself.	0.9928
+Impressionism	Sadness is an emotional pain associated with, or characterized by,
+feelings of disadvantage, loss, despair, grief, helplessness,
+disappointment and sorrow. An individual experiencing sadness may
+become quiet or lethargic, and withdraw themselves from others.	-0.9819
+Mannerism_Late_Renaissance	I see a man living in elegance with a beautiful younger woman by his
+side. There is a twinge of sadness but this man has lived a satisfying
+life. The painting itself is bright and rich, screaming elegance.	0.952
+Mannerism_Late_Renaissance	This painting is ominous. The expression on the person looking at us
+is almost as if they have been caught red-handed about to do something
+evil. The other person seems to be in a very vulnerable position with
+a red fact as if they have been struggling. I don't know what is in
+the hands of the person in the top position but it appears to be hard,
+almost like a weapon. Is this evil harming an angel? We see an angels
+wings peeking through. Or, possible an angel battling a demon since
+the wings are red and black?	-0.9669
+Minimalism	the golden colour resembles warmth to me, the kind of warmth you from
+a hug, or on a sunny day, it also isn't overly bright and is a warm
+colour tone. When temperature is optimal we are content, just like we
+are from a hug or a sunny day	0.9652
+Minimalism	Sadness is an emotional pain associated with, or characterized by,
+feelings of disadvantage, loss, despair, grief, helplessness,
+disappointment and sorrow. An individual experiencing sadness may
+become quiet or lethargic, and withdraw themselves from others.	-0.9819
+Naive_Art_Primitivism	i love this picture of coloured flowers in a pattern looking beautiful
+and full of great happiness  and pleasure	0.9661
+Naive_Art_Primitivism	I really don't really understand some of what's going on in the
+picture but it makes me sad because you have someone being carried out
+by the police and then you have someone one the ground that looks like
+they are dead or badly hurt. Just a sad situation to be in period.	-0.9711
+New_Realism	The two children are sharing a secret and clearly enjoying it. They
+are adorable. The bright red coat indicates fun and happiness.	0.9678
+New_Realism	Apocalyptic. People are running in terror. Panic. Dust and wind.
+Harsh, ugly colors to signify negativity.	-0.9666
+Northern_Renaissance	Its a bright sunny day, the colors are vibrant, especially the rich
+blue dress of what I think is the Virgin Mary, holding a cute baby
+Jesus.  The wisemen appear thoughtful and reverent, the scene is
+peaceful and powerful.	0.9738
+Northern_Renaissance	I'm not so sure this is similar to the painting we need to compare it
+to but this definitely makes me feel fear. Not only is it showing us
+Jesus presumably deceased but the skull looking face on the dirt/rock
+mound behind everyone is terrifying. I'm not sure if I am the only one
+that sees this scary face/skull but I wonder what it's purpose is. As
+it's not facing anyone in this scene and it's mouth looks as if it's
+yelling. So this scary image in this otherwise tragic scene of a
+suffering or deceased Jesus. Also, because no one is acknowledging
+this face seems like it's for us, the viewer to interpret	-0.9835
+Pointillism	The entire town looks like a perfect picture of contentment. The water
+is so calm and so blue the reflections are clear. The boats aren’t
+struggling, so the weather is nice. The buildings are clean without
+any wear. There are some clouds over the horizon but the sky is blue.
+The mountains look peaceful with no rocks or debris. The people on the
+boats are likely relaxing in the water, just enjoying the peacefulness
+of their surroundings.	0.9751
+Pointillism	Looks like my image but is missing a boat so I choose this image out
+of sadness because the boat is missing why the people got killed
+trying to settle here from other settlers how sad	-0.9643
+Pop_Art	I love the boldness of the character. This is a great picture that is
+fun and interesting. It is also has really great details.	0.9678
+Pop_Art	The pain on this man's face is horrifying.  I feel the pain and
+torture he is going through and I am scared about what is going to
+happen to him next.	-0.9524
+Post_Impressionism	This painting depicts a similar scene to the original (a town or
+cityscape, long dresses) but this is cheery, and I feel like I could
+step right into the painting and grab a really nice and delicious
+dinner nearby. Also its nice to see the horses in the background, the
+cherry blossoms or similar tree and some welcoming pink lights.	0.9824
+Post_Impressionism	Sadness is an emotional pain associated with, or characterized by,
+feelings of disadvantage, loss, despair, grief, helplessness,
+disappointment and sorrow. An individual experiencing sadness may
+become quiet or lethargic, and withdraw themselves from others.	-0.9819
+Realism	This young lady appears to be looking away, but also smirking and
+getting ready to smile at a secret joke.  Her face is soft, kind,
+noble, and beautiful, with a downward glance and the beginning of a
+smile on her lips.  Imagining what her secret might be is amusing and
+beguiling.	0.9847
+Realism	This picture is a portrait of someone who seems to be smirking but
+also angry. This elicited a fearful emotion from me because I see this
+person as a bad person / a villain. This is because in many movies /
+shows, there is a villain that is often smirking but they also look
+evil. The smirk in this picture is shown by their lips being in a
+smiling position. However, the evil / bad part is shown in their
+eyebrows. Their eyebrows are slanted down towards the bridge of their
+nose.	-0.9913
+Rococo	The picture shows a person with curly blond hair, I don't know the
+gender of this person but I think this is a girl. She has a face that
+looks very smart and talented, her face is bright, full of the aura of
+a talented person through her eyes. If this girl were real, she would
+be someone pretty great.	0.9841
+Rococo	Does not look content.  The beard, no hair up top, head scarf, and
+outer jacket look more in disarray.  The face expression and deepness
+of the eyes is also not content, but having a more disturbed or
+troublesome look.  The disarray, troublesome look, as if this person
+cannot fix what is broken hence helpless leads to sadness.	-0.9813
+Romanticism	The horse is dead, obviously was a loved companion, but now is
+dead..However, HOPEFUL, leads.. The man raised to the sky, hands
+reaching to the heavens. With the bright, warm, loving holy light
+halos around. The grandiose of love. A love supreme.	0.9918
+Romanticism	As a woman I find this painting extremely upsetting. A group of rowdy,
+disgusting ruffians, possibly invaders from another kingdom or city or
+just a group of drunken thugs, are forcefully taking women to rape,
+enslave, and possibly murder. Seeing the tormented, terrified
+expressions on the women's faces makes me so infuriated toward those
+men, and possibly the artist. I am curious if the artist was
+glorifying that kind of behavior toward women or admonishing it.	-0.9792
+Symbolism	This image has a beautiful strong woman focus with Christian
+undertones but this woman seems happy and relaxed surrounded by lovely
+Christian cherubs. There are some feminine positive sexual undertones
+as well.	0.9812
+Symbolism	This painting makes me feel fear because they have removed a dead body
+from a grave. The man in the chair appears to be the same man as the
+one holding the dead body, and they are both scary to me. The dark
+color scheme of the painting also adds to the fear of it.	-0.9674
+Synthetic_Cubism	Gets me inspired to have a meal or share coffee seems positive
+inspires to share with someone	0.9201
+Synthetic_Cubism	This bizarre artform leaves me frustrated and confused. It seems to
+lack any sort of reasoning to it. I find these awkward shapes
+unattractive.	-0.9153
+Ukiyo_e	this great samurai warrior and his lovely wife in great coloured robes
+look amazing and brilliant	0.9666
+Ukiyo_e	Angry man holding a sword trying to fight off some sort of blue enemy.
+Blue enemy looks scared while man with sword looks angry.	-0.9622
